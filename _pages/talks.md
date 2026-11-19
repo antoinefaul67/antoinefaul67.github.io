@@ -10,7 +10,9 @@ author_profile: true
 
 Talks 
 ---
-
+* [*Workshop Machine Learning + Simulation*](https://project.inria.fr/mlsim2026/workshop/)  
+  October 13 2026, Nice, France
+  
 * [*GdR MASCOT-NUM Annual Meeting*](https://mascotnum2026.sciencesconf.org/)  
   April 1 2026, Rennes, France
 
