@@ -20,8 +20,9 @@ Papers
 Status: Submitted (2026)
 Work by *A.F*, David Ginsbourger and Ben Spycher
 
-  * *Copula-based Synthetic Data Generation: a sound trade-off.*  
-Status: In preparation (2026)
+  * [*Copula-Based Synthetic Data Generation: A Use-Inspired Perspective on Trade-offs* ] (https://arxiv.org/abs/2611.22882).
+    
+Status: Submitted (2026)
 Work by *A.F*, David Ginsbourger, Ben Spycher and Petra Stute.
 
   * [*Modelling Complex Tabular Datasets with a Mixture of Diverse Generative Models.*](https://openreview.net/pdf?id=3y3mHAldp7)
