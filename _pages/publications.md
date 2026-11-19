@@ -17,20 +17,27 @@ Papers
 
 
   * [*Easy conditioning far beyond Gaussian.* ](https://arxiv.org/abs/2409.16003)
-Status: Submitted (2026)
-Work by *A.F*, David Ginsbourger and Ben Spycher
-
-  * [*Copula-Based Synthetic Data Generation: A Use-Inspired Perspective on Trade-offs* ] (https://arxiv.org/abs/2611.22882).
     
-Status: Submitted (2026)
+Status: Submitted (2026).
+
+Work by *A.F*, David Ginsbourger and Ben Spycher.
+
+   * [*Copula-Based Synthetic Data Generation: A Use-Inspired Perspective on Trade-offs.* ](https://arxiv.org/abs/2611.22882)
+      
+Status: Submitted (2026).
+
 Work by *A.F*, David Ginsbourger, Ben Spycher and Petra Stute.
 
   * [*Modelling Complex Tabular Datasets with a Mixture of Diverse Generative Models.*](https://openreview.net/pdf?id=3y3mHAldp7)
-Status: Published in Transactions on Machine Learning Research (2026)
+    
+Status: Published in Transactions on Machine Learning Research (2026).
+
 Work by *A.F*, Xiao Zhou, Ossi Raisa, Mihaela Van der Schaar and Cem Tekin.
 
   * [*Comparing imputation approaches to handle systematically missing inputs in risk calculators*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
+    
 Status: Published in Plos Digital Health. 
+
 Work by with Anja Mühlemann, Philip Stange, A.F, Serena Lozza-Fiacco, Rowan Iskandar, Manuela Moraru, Susanne Theis, Petra Stute, Ben D. Spycher and David Ginsbourger.
 
 
